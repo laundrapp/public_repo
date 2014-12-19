@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.localytics.android</groupId>
+  <artifactId>localytics</artifactId>
+  <versioning>
+    <release>2.70</release>
+    <versions>
+      <version>2.70</version>
+    </versions>
+    <lastUpdated>20141219223458</lastUpdated>
+  </versioning>
+</metadata>
